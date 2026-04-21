@@ -23,7 +23,7 @@ A single switch topology with 3 hosts was created using:
 
 sudo mn --topo single,3
 
-![alt text](Screenshots/<Screenshot 2026-04-14 120710.png>)
+![alt text](Screenshots/Screenshot 2026-04-14 120710.png)
 
 
 ## 📊 Methodology
@@ -70,8 +70,8 @@ h1 ping h2
 Example:
 
 
-![normal](Screenshots/<Screenshot 2026-04-14 114445.png>)
-![delayed](Screenshots/<Screenshot 2026-04-14 115541.png>)
+![normal](Screenshots/Screenshot 2026-04-14 114445.png)
+![delayed](Screenshots/Screenshot 2026-04-14 115541.png)
 
 
 
