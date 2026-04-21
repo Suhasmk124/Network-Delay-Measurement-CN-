@@ -65,7 +65,7 @@ h1 ping h2
 
 ##  Screenshots
 
-(Add your screenshots here)
+
 
 Example:
 
